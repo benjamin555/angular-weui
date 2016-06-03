@@ -1,5 +1,5 @@
 {
-  "name": "angular-weui",
+  "name": "ng-weui",
   "version": "0.0.1",
   "dependencies": {
     "gulp-stylus": "^2.2.0"
